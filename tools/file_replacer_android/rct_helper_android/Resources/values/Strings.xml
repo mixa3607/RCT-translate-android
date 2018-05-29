@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">rct_helper_android</string>
+  
+  <string name="button_Input_file_check_default">проверить исх. файл</string>
+  <string name="button_Input_file_check_ok">чтение произведено</string>
+  <string name="button_Input_file_check_fail">ошибка чтения</string>
+
+  <string name="button_Output_file_check_default">создать конечный файл</string>
+  <string name="button_Output_file_check_ok">файл создан</string>
+  <string name="button_Output_file_check_fail">ошибка создания файла</string>
+
+  <string name="button_Start_default">начать</string>
+  <string name="button_Start_ok">готово</string>
+  <string name="button_Start_fail">ошибка</string>
+</resources>

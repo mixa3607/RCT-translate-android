@@ -1,0 +1,10 @@
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_text_replace\rct_text_replace\bin\Debug\rct_text_replace.exe.config
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_text_replace\rct_text_replace\bin\Debug\rct_text_replace.exe
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_text_replace\rct_text_replace\bin\Debug\rct_text_replace.pdb
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_text_replace\rct_text_replace\obj\Debug\rct_text_replace.csprojResolveAssemblyReference.cache
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_text_replace\rct_text_replace\obj\Debug\rct_text_replace.Form1.resources
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_text_replace\rct_text_replace\obj\Debug\rct_text_replace.Properties.Resources.resources
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_text_replace\rct_text_replace\obj\Debug\rct_text_replace.csproj.GenerateResource.Cache
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_text_replace\rct_text_replace\obj\Debug\rct_text_replace.csproj.CoreCompileInputs.cache
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_text_replace\rct_text_replace\obj\Debug\rct_text_replace.exe
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_text_replace\rct_text_replace\obj\Debug\rct_text_replace.pdb

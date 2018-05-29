@@ -1,0 +1,15 @@
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\bin\Debug\rct_helper_android.dll
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\bin\Debug\rct_helper_android.pdb
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\bin\Debug\rct_helper_android.rct_helper_android.apk
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\bin\Debug\rct_helper_android.rct_helper_android-Signed.apk
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\obj\Debug\rct_helper_android.csprojResolveAssemblyReference.cache
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\obj\Debug\rct_helper_android.csproj.CoreCompileInputs.cache
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\obj\Debug\rct_helper_android.dll
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\obj\Debug\rct_helper_android.pdb
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\obj\Debug\android\bin\rct_helper_android.rct_helper_android.apk
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\obj\Debug\res\layout\main.xml
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\obj\Debug\res\values\strings.xml
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\obj\Debug\R.cs.flag
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\obj\Debug\uploadflags.txt
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\bin\Debug\rct_helper_android.dll.mdb
+C:\Users\mixa3607\Documents\Visual Studio 2017\Projects\rct_helper_android\rct_helper_android\obj\Debug\android\assets\rct_helper_android.dll.mdb

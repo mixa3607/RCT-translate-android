@@ -1,0 +1,2 @@
+android.app.Application
+rct_helper_android.rct_helper_android

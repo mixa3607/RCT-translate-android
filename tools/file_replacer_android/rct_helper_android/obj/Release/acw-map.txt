@@ -1,0 +1,4 @@
+rct_helper_android.MainActivity, rct_helper_android;md5e787cb835ff6fd8b594cc0696a9ca61c.MainActivity
+rct_helper_android.MainActivity, rct_helper_android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e787cb835ff6fd8b594cc0696a9ca61c.MainActivity
+rct_helper_android.MainActivity;md5e787cb835ff6fd8b594cc0696a9ca61c.MainActivity
+rct_helper_android.MainActivity;md5e787cb835ff6fd8b594cc0696a9ca61c.MainActivity

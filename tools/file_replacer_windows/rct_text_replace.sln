@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rct_text_replace", "rct_text_replace\rct_text_replace.csproj", "{D03619F6-33F6-40C6-912F-AA38162D1F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D03619F6-33F6-40C6-912F-AA38162D1F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03619F6-33F6-40C6-912F-AA38162D1F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03619F6-33F6-40C6-912F-AA38162D1F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03619F6-33F6-40C6-912F-AA38162D1F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E562E9B0-118A-4580-82ED-BD3837F64689}
+	EndGlobalSection
+EndGlobal
